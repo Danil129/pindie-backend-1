@@ -4,4 +4,4 @@
 
 IP-адрес: 158.160.166.210
 
-Ссылка на домен бэкэнда: https://komarova-backend.nomoredomainswork.ru
+Ссылка на домен бэкэнда: http://backend-symolkin.nomorepartiesco.ru/
