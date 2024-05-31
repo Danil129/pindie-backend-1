@@ -3,3 +3,5 @@
 Ссылка на домен фронтенда:http://frontend-symolkin.nomorepartiesco.ru/
 
 IP-адрес: 158.160.166.210
+
+Ссылка на домен бэкэнда: https://komarova-backend.nomoredomainswork.ru
